@@ -3,5 +3,5 @@
 
 
 def main():
-    print "t2 b"
-    return "b"
+    print "t2 c"
+    return "c"
