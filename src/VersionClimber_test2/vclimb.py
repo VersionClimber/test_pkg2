@@ -1,8 +1,7 @@
 """Function used by version climber
 """
-# dummy
 
 
 def main():
-    print "t2 a"
-    return "a"
+    print "t2 b"
+    return "b"
