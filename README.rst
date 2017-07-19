@@ -1,5 +1,5 @@
 ========================
-VersionClimber_test2
+test_pkg2
 ========================
 
 .. {{pkglts doc,
@@ -11,5 +11,5 @@ VersionClimber_test2
 
 .. }}
 
-belle petite description
+This package is used to test VersionClimber.
 
